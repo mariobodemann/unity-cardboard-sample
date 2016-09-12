@@ -1,0 +1,8 @@
+*.log
+Library/ShaderCache/*
+Temp/
+Library/shadercompiler*
+Library/shadercompiler*.log
+Library/LastBuild.buildreport
+Library/metadata/0**
+Library/shadercompiler-UnityShaderCompiler*.log
